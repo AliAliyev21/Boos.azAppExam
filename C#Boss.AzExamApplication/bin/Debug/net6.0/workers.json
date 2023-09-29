@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 0,
+    "WorkerId": 0,
+    "Name": "John",
+    "Surname": "Doe",
+    "City": "New York",
+    "Email": "john@example.com",
+    "Salary": 75000.0,
+    "CVs": [],
+    "Notifications": []
+  },
+  {
+    "Id": 0,
+    "WorkerId": 0,
+    "Name": "Eva",
+    "Surname": "Wilson",
+    "City": "San Francisco",
+    "Email": "eva@example.com",
+    "Salary": 80000.0,
+    "CVs": [],
+    "Notifications": []
+  }
+]

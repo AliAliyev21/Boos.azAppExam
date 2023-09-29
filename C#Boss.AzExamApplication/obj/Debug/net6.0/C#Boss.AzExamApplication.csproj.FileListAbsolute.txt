@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\C#Boss.AzExamApplication.exe
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\C#Boss.AzExamApplication.deps.json
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\C#Boss.AzExamApplication.runtimeconfig.json
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\C#Boss.AzExamApplication.dll
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\C#Boss.AzExamApplication.pdb
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.dll
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\refint\C#Boss.AzExamApplication.dll
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.pdb
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\ref\C#Boss.AzExamApplication.dll
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\C#Boss.AzExamApplication\C#Boss.AzExamApplication\obj\Debug\net6.0\C#Boss.AzExamApplication.csproj.CopyComplete

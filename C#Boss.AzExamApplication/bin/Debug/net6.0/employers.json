@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "EmployerId": 0,
+    "Name": "Elon",
+    "Surname": "Musk",
+    "City": "United State",
+    "Phone": "123-456-789",
+    "Age": 38,
+    "Workers": [],
+    "Notifications": [],
+    "Announcements": []
+  },
+  {
+    "Id": 1,
+    "EmployerId": 0,
+    "Name": "Bil",
+    "Surname": "Gates",
+    "City": "United State",
+    "Phone": "987-654-321",
+    "Age": 55,
+    "Workers": [],
+    "Notifications": [],
+    "Announcements": []
+  }
+]

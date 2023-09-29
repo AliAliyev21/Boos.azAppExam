@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "AnnouncementId": 0,
+    "Title": "Software Engineer",
+    "Description": "Join our software development team",
+    "DatePosted": "2023-09-30T02:18:11.8754672+04:00",
+    "Salary": 60000.0,
+    "Location": "San Francisco"
+  },
+  {
+    "Id": 2,
+    "AnnouncementId": 0,
+    "Title": "Hardware Engineer",
+    "Description": "Hardware design position available",
+    "DatePosted": "2023-09-30T02:18:11.8842499+04:00",
+    "Salary": 50000.0,
+    "Location": "New York"
+  },
+  {
+    "Id": 3,
+    "AnnouncementId": 0,
+    "Title": "Marketing Manager",
+    "Description": "Lead our marketing efforts",
+    "DatePosted": "2023-09-30T02:18:11.8842543+04:00",
+    "Salary": 40000.0,
+    "Location": "Los Angeles"
+  },
+  {
+    "Id": 4,
+    "AnnouncementId": 0,
+    "Title": "Financial Analyst",
+    "Description": "Join our finance department",
+    "DatePosted": "2023-09-30T02:18:11.8842547+04:00",
+    "Salary": 45000.0,
+    "Location": "Chicago"
+  },
+  {
+    "Id": 5,
+    "AnnouncementId": 0,
+    "Title": "Mechanical Designer",
+    "Description": "Design mechanical systems",
+    "DatePosted": "2023-09-30T02:18:11.8842551+04:00",
+    "Salary": 55000.0,
+    "Location": "Canada"
+  }
+]
